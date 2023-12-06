@@ -91,3 +91,13 @@
 [`409 Conflict`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/409)
 
 [`410 Gone`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/410)
+
+[`411 Length Required`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/411)
+
+[`412 Precondition Failed`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/412)
+
+[`413 Payload Too Large`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/413)
+
+[`414 URI Too Long`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/414)
+
+[`415 Unsupported Media Type`](415 Unsupported Media Type)
