@@ -100,4 +100,4 @@
 
 [`414 URI Too Long`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/414)
 
-[`415 Unsupported Media Type`](415 Unsupported Media Type)
+[`415 Unsupported Media Type`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/415)
