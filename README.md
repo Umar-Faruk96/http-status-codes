@@ -6,15 +6,15 @@
 
 ## পাঁচ ভাগে বিভক্ত রেসপন্সগুলো হলঃ
 
-1. [Informational responses](/http-status-codes/#information_responses) (100 – 199)
-2. [Successful responses](/http-status-codes/#successful_responses) (200 – 299)
-3. [Redirection messages](/http-status-codes/#redirection_messages) (300 – 399)
-4. [Client error responses](/http-status-codes/#client_error_responses) (400 – 499)
-5. [Server error responses](/http-status-codes/#server_error_responses) (500 – 599)
+1. [Informational responses](/http-status-codes/#information-responses) (100 – 199)
+2. [Successful responses](/http-status-codes/#successful-responses) (200 – 299)
+3. [Redirection messages](/http-status-codes/#redirection-messages) (300 – 399)
+4. [Client error responses](/http-status-codes/#client-error-responses) (400 – 499)
+5. [Server error responses](/http-status-codes/#server-error-responses) (500 – 599)
 
 একে একে সবগুলোর রেসপন্স কোডগুলো সম্পর্কে জানি।
 
-## Information responses{#information_responses}
+## Information responses
 
 [`100 Continue`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/100)
 
@@ -28,7 +28,7 @@
 
 [`103 Early Hints`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/103)
 
-## Successful responses{#successful_responses}
+## Successful responses
 
 [`200 OK`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/200)
 
@@ -48,7 +48,7 @@
 
 [`226 IM Used`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/226)
 
-## Redirection messages{#redirection_messages}
+## Redirection messages
 
 [`300 Multiple Choices`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/300)
 
@@ -68,7 +68,7 @@
 
 [`308 Permanent Redirect`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/308)
 
-## Client error responses{#client_error_responses}
+## Client error responses
 
 [`400 Bad Request`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/400)
 
@@ -128,7 +128,7 @@
 
 [`451 Unavailable For Legal Reasons`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451)
 
-## Server error responses{#server_error_responses}
+## Server error responses
 
 [`500 Internal Server Error`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500)
 
