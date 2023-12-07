@@ -10,7 +10,7 @@
 2. [Successful responses](#successful_responses) (200 – 299)
 3. [Redirection messages](#redirection_messages) (300 – 399)
 4. [Client error responses](#client_error_responses) (400 – 499)
-5. [Server error responses](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status#server_error_responses) (500 – 599)
+5. [Server error responses](#server_error_responses) (500 – 599)
 
 একে একে সবগুলোর রেসপন্স কোডগুলো সম্পর্কে জানি।
 
@@ -101,3 +101,53 @@
 [`414 URI Too Long`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/414)
 
 [`415 Unsupported Media Type`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/415)
+
+[`416 Range Not Satisfiable`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/416)
+
+[`417 Expectation Failed`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/417)
+
+[`418 I'm a teapot`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418)
+
+[`421 Misdirected Request`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/421)
+
+[`422 Unprocessable Content`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/422)
+
+[`423 Locked`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/423)
+
+[`424 Failed Dependency`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/424)
+
+[`425 Too Early`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/425)
+
+[`426 Upgrade Required`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/426)
+
+[`428 Precondition Required`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/428)
+
+[`429 Too Many Requests`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/429)
+
+[`431 Request Header Fields Too Large`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/431)
+
+[`451 Unavailable For Legal Reasons`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/451)
+
+## Server error responses{#server_error_responses}
+
+[`500 Internal Server Error`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/500)
+
+[`501 Not Implemented`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/501)
+
+[`502 Bad Gateway`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502)
+
+[`503 Service Unavailable`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503)
+
+[`504 Gateway Timeout`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/504)
+
+[`505 HTTP Version Not Supported`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/505)
+
+[`506 Variant Also Negotiates`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/506)
+
+[`507 Insufficient Storage`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/507)
+
+[`508 Loop Detected`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/508)
+
+[`510 Not Extended`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/510)
+
+[`511 Network Authentication Required`](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/511)
