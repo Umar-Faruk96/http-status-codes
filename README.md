@@ -6,11 +6,11 @@
 
 ## পাঁচ ভাগে বিভক্ত রেসপন্সগুলো হলঃ
 
-1. [Informational responses](#information_responses) (100 – 199)
-2. [Successful responses](#successful_responses) (200 – 299)
-3. [Redirection messages](#redirection_messages) (300 – 399)
-4. [Client error responses](#client_error_responses) (400 – 499)
-5. [Server error responses](#server_error_responses) (500 – 599)
+1. [Informational responses](/#information_responses) (100 – 199)
+2. [Successful responses](/#successful_responses) (200 – 299)
+3. [Redirection messages](/#redirection_messages) (300 – 399)
+4. [Client error responses](/#client_error_responses) (400 – 499)
+5. [Server error responses](/#server_error_responses) (500 – 599)
 
 একে একে সবগুলোর রেসপন্স কোডগুলো সম্পর্কে জানি।
 
